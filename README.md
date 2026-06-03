@@ -18,3 +18,6 @@ A simple calculator built with HTML, CSS, and JavaScript.
 ## Author
 
 zaiter kawther alaa
+## Screenshot
+
+![Calculator Preview](screenshots/web-calculator-preview.png)
